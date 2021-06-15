@@ -21,7 +21,7 @@ return (
             <Route path="/" component={HomeScreen} exact></Route>
         </main>
         <footer className="row center">
-            Allright reserved
+
         </footer>
     </div>
     </BrowserRouter>
