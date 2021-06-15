@@ -26,7 +26,7 @@ return (
             Allright reserved
         </footer>
     </div>
-);
+    );
 }
 
 export default App;
